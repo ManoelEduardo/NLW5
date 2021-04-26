@@ -1,16 +1,15 @@
-# devquiz
+# Projeto DevQuiz realizado na (NLW#5) Next Level Week 5 da Rocketseat
 
-A new Flutter project.
 
-## Getting Started
+## :rocket: Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-This project is a starting point for a Flutter application.
+  - [Flutter](https://flutter.dev/) 
+  - [Share_plus](https://pub.dev/packages/share_plus)
 
-A few resources to get you started if this is your first Flutter project:
+ ## :computer: Projeto 
+    Nesse projeto foi proposto o desafio de desenvolver um aplicativo em flutter de um Quiz. :blush:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![App](https://user-images.githubusercontent.com/66228224/116164096-7cf7fc80-a6cf-11eb-9ae6-fbf64fefe944.png)
